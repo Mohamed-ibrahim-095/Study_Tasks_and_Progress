@@ -2,7 +2,7 @@
 
 ## 1 - Constructor
 
-- [ ] Constructor function
+- [x] Constructor function
 - [ ] Constructor mode test: new.target
 - [ ] Return from constructors
 - [ ] Methods in constructor
