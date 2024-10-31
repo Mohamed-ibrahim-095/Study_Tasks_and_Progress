@@ -3,7 +3,7 @@
 ## 1 - Constructor
 
 - [x] Constructor function
-- [ ] Constructor mode test: new.target
+- [x] Constructor mode test: new.target
 - [ ] Return from constructors
 - [ ] Methods in constructor
 
