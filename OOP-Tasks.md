@@ -4,8 +4,8 @@
 
 - [x] Constructor function
 - [x] Constructor mode test: new.target
-- [ ] Return from constructors
-- [ ] Methods in constructor
+- [x] Return from constructors
+- [x] Methods in constructor
 
 ## 2 - Prototypes
 
